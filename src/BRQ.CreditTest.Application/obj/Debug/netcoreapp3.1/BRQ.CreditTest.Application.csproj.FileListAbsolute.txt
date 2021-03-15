@@ -1,0 +1,12 @@
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\bin\Debug\netcoreapp3.1\BRQ.CreditTest.Application.deps.json
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\bin\Debug\netcoreapp3.1\BRQ.CreditTest.Application.dll
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\bin\Debug\netcoreapp3.1\BRQ.CreditTest.Application.pdb
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\bin\Debug\netcoreapp3.1\BRQ.CreditTest.Domain.dll
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\bin\Debug\netcoreapp3.1\BRQ.CreditTest.Domain.pdb
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.csproj.CopyComplete
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.dll
+C:\Users\tinogueira\source\repos\BRQ.CreditTest\src\BRQ.CreditTest.Application\obj\Debug\netcoreapp3.1\BRQ.CreditTest.Application.pdb

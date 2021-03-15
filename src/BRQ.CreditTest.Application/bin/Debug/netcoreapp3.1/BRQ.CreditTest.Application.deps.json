@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BRQ.CreditTest.Application/1.0.0": {
+        "dependencies": {
+          "BRQ.CreditTest.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BRQ.CreditTest.Application.dll": {}
+        }
+      },
+      "BRQ.CreditTest.Domain/1.0.0": {
+        "runtime": {
+          "BRQ.CreditTest.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BRQ.CreditTest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BRQ.CreditTest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
